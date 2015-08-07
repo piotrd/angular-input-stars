@@ -13,8 +13,7 @@
         "angular-input-stars.js"
     ],
     "dependencies": {
-        "angular": "1.3.x",
-        "font-awesome": "~4.2.0"
+        "angular": "1.3.x"
     },
     "ignore": [
         "readme.md"  
